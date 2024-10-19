@@ -1,0 +1,26 @@
+.loader {
+  margin-top: 400px;
+  margin-left: 700px;
+}
+
+.headers {
+ display: flex;
+ justify-content: space-between;
+}
+
+.modals {
+    padding: 30px;
+}
+
+.table-container {
+  max-height: 400px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px; 
+}
+
+.loading {
+  text-align: center;
+  font-size: 1.5em;
+  color: #333;
+}
