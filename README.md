@@ -227,6 +227,6 @@ This project is licensed under the MIT License.
 
 ## Author
 
-[Your Name](https://github.com/Thaitheya)
+[Thaitheya](https://github.com/Thaitheya)
 
 Feel free to contact me for questions or suggestions.
